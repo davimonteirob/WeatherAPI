@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmMIc1Wgm7U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UNICOTD20\\source\\repos\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UNICOTD20\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\UNICOTD20\\.nuget\\packages\\system.net.http.json\\9.0.0\\system.net.http.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\UNICOTD20\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\UNICOTD20\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
