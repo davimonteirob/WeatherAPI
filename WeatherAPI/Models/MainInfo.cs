@@ -8,7 +8,7 @@ namespace WeatherAPI.Models
 {
     internal class MainInfo
     {
-        public float Temperature { get; set; }
+        public float Temp { get; set; }
         public int Humidity { get; set; }
     }
 }

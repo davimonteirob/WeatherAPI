@@ -9,7 +9,6 @@ namespace WeatherAPI.Models
     internal class WeatherResponse
     {
         public MainInfo Main { get; set; }
-
         public Weather[] Weather { get; set; }
     }
 }
